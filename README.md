@@ -1,6 +1,8 @@
+For the Weaviate Coding Challenge, I chose to build a Pathfinding Visualizer App, using React JS.
+
 # About the App
 
-A Pathfinding Visualizer App built with React JS, which visualizes Dijkstra's algorithm (pathfinding algorithm that guarantees the shortest path)
+It is built with React JS, which visualizes Dijkstra's algorithm (pathfinding algorithm that guarantees the shortest path)
 
 With this interactive app, with 2 fixed coordinates on a grid and walls that you can manually create, find the shortest path to that two points with a click of a button.
 
